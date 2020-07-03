@@ -1,1 +1,3 @@
-##  http://www.tpcms.org 官网
+## tpcms github webpage
+
+访问地址: http://www.tpcms.org 
